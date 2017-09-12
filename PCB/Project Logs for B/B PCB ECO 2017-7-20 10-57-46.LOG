@@ -1,0 +1,20 @@
+Change Component DesignItemId : Designator=L31 Old DesignItemId= New DesignItemId=L
+Change Component DesignItemId : Designator=switch Old DesignItemId= New DesignItemId=开关
+Change Component DesignItemId : Designator=J22 Old DesignItemId=3 端? New DesignItemId=3 端口
+Change Component DesignItemId : Designator=J32 Old DesignItemId=3 端? New DesignItemId=3 端口
+Change Component DesignItemId : Designator=3.3V Old DesignItemId=5 端? New DesignItemId=5 端口
+Change Component DesignItemId : Designator=GND Old DesignItemId=5 端? New DesignItemId=5 端口
+Change Component DesignItemId : Designator=5V Old DesignItemId=7 端? New DesignItemId=7 端口
+Change Component DesignItemId : Designator=GND Old DesignItemId=7 端? New DesignItemId=7 端口
+Change Component DesignItemId : Designator=J1 Old DesignItemId=电? New DesignItemId=电源接口
+Change Component DesignItemId : Designator=Motor Old DesignItemId=马? New DesignItemId=马达接口
+Change Component Designator: OldDesignator=3.3V NewDesignator=J31
+Change Component Designator: OldDesignator=5V NewDesignator=J30
+Change Component Designator: OldDesignator=GND NewDesignator=J20
+Change Component Designator: OldDesignator=GND NewDesignator=J21
+Change Component Designator: OldDesignator=Motor NewDesignator=J11
+Change Component Designator: OldDesignator=switch NewDesignator=拨动开关
+Change Component Library : Designator=拨动开关 Old Library= New Library=RC.SchLib
+Change Component Library : Designator=L31 Old Library=RC.SchL New Library=RC.SchLib
+Added Member To Class: ClassName=YQYtest Member=Component J20 7 端口
+Added Room: Name=YQYtest

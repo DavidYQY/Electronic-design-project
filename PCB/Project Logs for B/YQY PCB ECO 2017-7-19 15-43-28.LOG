@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=PWM2 Pin=R22-3
+Removed Pin From Net: NetName=VCC Pin=R22-4
+Removed Pin From Net: NetName=NetR22_5 Pin=R22-5
+Removed Pin From Net: NetName=NetR22_6 Pin=R22-6
+Removed Pin From Net: NetName=NetR22_6 Pin=U12-2
+Removed Pin From Net: NetName=NetR22_5 Pin=U12-3
+Removed Member From Class: ClassName=YQYtest Member=R22
+Change Component Designator: OldDesignator=3.3V NewDesignator=J31
+Change Component Designator: OldDesignator=5V NewDesignator=J30
+Change Component Designator: OldDesignator=Bat NewDesignator=J32
+Change Component Designator: OldDesignator=Battery NewDesignator=J1
+Change Component Designator: OldDesignator=GND NewDesignator=J20
+Change Component Designator: OldDesignator=GND NewDesignator=J21
+Change Component Designator: OldDesignator=GND NewDesignator=J22
+Change Component Designator: OldDesignator=Switch NewDesignator=拨动开关
+Added Pin To Net: NetName=VCC Pin=R11-1
+Added Pin To Net: NetName=PWM2 Pin=R11-2
+Added Pin To Net: NetName=NetR22_5 Pin=R11-7
+Added Pin To Net: NetName=NetR22_6 Pin=R11-8
+Added Pin To Net: NetName=NetR22_5 Pin=U12-2
+Added Pin To Net: NetName=NetR22_6 Pin=U12-3
+Change Net Name : Old Net Name=NetR22_5 New Net Name=NetR11_7
+Change Net Name : Old Net Name=NetR22_6 New Net Name=NetR11_8
+Added Member To Class: ClassName=YQYtest Member=Component J21 5 端口
+Added Member To Class: ClassName=YQYtest Member=Component J22 3 端口
+Added Room: Name=YQYtest

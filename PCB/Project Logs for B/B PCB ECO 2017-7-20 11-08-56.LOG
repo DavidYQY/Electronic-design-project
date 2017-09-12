@@ -1,0 +1,6 @@
+Added Component: Designator=C31(CAPPR0.19)
+Added Component: Designator=C32(CAPPR0.19)
+Added Pin To Net: NetName=VIN Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=VCC Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
